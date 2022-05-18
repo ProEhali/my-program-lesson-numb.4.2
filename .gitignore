@@ -14,7 +14,7 @@ public class Leson4 {
 			if (ch == answer) {
 				System.out.print("Correctly!");
 			}
-			else if  (ch > answer) { // Иф Елсе используем когда каждый раз можно провести проверку.
+			else if  (ch > answer) { 
 				System.out.print("Less");
 			}
 			else {
